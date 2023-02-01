@@ -1,0 +1,11 @@
+﻿  SFML_FLUID.cpp
+C:\Users\Oskar\source\repos\Learning\SFML_FLUID\SFML_FLUID\SFML_FLUID.cpp(12,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Oskar\source\repos\Learning\SFML_FLUID\SFML_FLUID\SFML_FLUID.cpp(33,38): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Oskar\source\repos\Learning\SFML_FLUID\SFML_FLUID\SFML_FLUID.cpp(33,31): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Oskar\source\repos\Learning\SFML_FLUID\SFML_FLUID\SFML_FLUID.cpp(33,24): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  Generating code
+  2 of 9 functions (22.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SFML_FLUID.vcxproj -> C:\Users\Oskar\source\repos\Learning\SFML_FLUID\x64\Release\SFML_FLUID.exe
